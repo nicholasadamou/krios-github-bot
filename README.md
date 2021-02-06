@@ -21,7 +21,7 @@ The **goal** is to develop a **proof of concept** solution to the given issue pr
 
 Each group has to work together with their stakeholders and design coach to plan, organize, develop, and finally present their P.O.C. to other stakeholders at the _Slam 2_ event that takes places 3.5 months from the first slam.
 
-🏆 Winner of the _IBM Developer JumpStart Slam 2021 People's Choice Award_ for overall best Proof of Concept and Presentation.
+🏆  Winner of the _IBM Developer JumpStart Slam 2021 People's Choice Award_ for overall best Proof of Concept and Presentation.
 
 ## But, really, what is '_Krios_'?
 
