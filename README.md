@@ -27,7 +27,7 @@ Each group has to work together with their stakeholders and design coach to plan
 
 This question is answered in the **rational** section of [bot/README](bot/README.md).
 
-**Fun fact** 🚀: _Krios_ is the code name for the project. It was named after the Greek titan _Crius_. For artistic effect, we dropped the 'C' and added a 'K'. It also follows the tradition that developers have with giving their projects code names. For example, Windows XP was code named _Whistler_, Windows 95 was code named _Chicago_, for example. We just thought it would be super cool to name it after a Greek titan instead of use a city name.
+**Fun fact** 🚀: _Krios_ is the code name for the project. It was named after the Greek titan _Crius_. For artistic effect, we dropped the 'C' and added a 'K'. It also follows the tradition that developers have with giving their projects code names. For example, Windows XP was code named _Whistler_, Windows 95 was code named _Chicago_, for example. We just thought it would be super cool to name it after a Greek titan instead of using a city name.
 
 ## 🏁 Getting Started
 
