@@ -5,7 +5,7 @@
 <h4 align="center">The mono repo that holds the <a href="bot">bot/</a> and the <a href="api">api/</a> of <em>Krios</em>.</h4>
 
 <p align="center">
- <img src="https://img.shields.io/badge/IBM-Developer%20JumpStart%20Slam%202020-blue" alt="IBM Developer JumpStart Slam 2020">
+ <img src="https://img.shields.io/badge/IBM-Developer%20JumpStart%20Slam%202021-blue" alt="IBM Developer JumpStart Slam 2010">
   <a href="https://github.com/nicholasadamou/krios-github-bot/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/license-Apache-blue.svg?style=flat-square" alt="License">
   </a>
